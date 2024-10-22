@@ -32,7 +32,7 @@
           >Baca Selengkapnya</q-btn
         > -->
       </div>
-      <div class="col">
+      <!-- <div class="col">
         <div class="q-mb-xl"><q-img
           src="/image/sinopsis1.webp"
           :ratio="16 / 9"
@@ -41,14 +41,7 @@
           src="/image/sinopsis2.webp"
           :ratio="16 / 9"
         /></div>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
-
-<style>
-.hometentang {
-  padding: 100px 0 30px;
-  background-color: #dedede;
-}
-</style>
