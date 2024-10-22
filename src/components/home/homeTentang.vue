@@ -34,11 +34,11 @@
       </div>
       <div class="col">
         <div class="q-mb-xl"><q-img
-          src="/public/image/sinopsis1.webp"
+          src="/image/sinopsis1.webp"
           :ratio="16 / 9"
         /></div>
         <div><q-img
-          src="/public/image/sinopsis2.webp"
+          src="/image/sinopsis2.webp"
           :ratio="16 / 9"
         /></div>
       </div>

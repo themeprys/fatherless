@@ -8,14 +8,14 @@
       </div>
       <div class="row">
         <div class="col q-pa-md">
-          <q-img src="/public/image/fizal.jpg" :ratio="1" class="shadow-6" />
+          <q-img src="/image/fizal.jpg" :ratio="1" class="shadow-6" />
           <h3 class="text-weight-medium text-h5">
             Fizal Aji Pratama
           </h3>
           <p>sebagai Putra Sopandi</p>
         </div>
         <div class="col q-pa-md">
-          <q-img src="/public/image/agung.jpg" :ratio="1" class="shadow-6"/>
+          <q-img src="/image/agung.jpg" :ratio="1" class="shadow-6"/>
           <h3 class="text-weight-medium text-h5">
             Albaransyah Yusuf
           </h3>
