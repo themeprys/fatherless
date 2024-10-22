@@ -1,6 +1,6 @@
 <template>
   <div class="homereinforcement">
-    <div class="container">
+    <div class="container q-pt-lg">
     <div class="cta text-center">
       <h1 class="text-weight-bold text-h1">Pernyataan Sutradara </h1>
     </div>
@@ -37,7 +37,7 @@
         menjadi lebih terbuka kepada keluarga kita.
       </p>
 
-          <p><q-img src="/public/image/statement.jpg" width="200px"/></p>
+          <p><q-img src="/public/image/mozes.webp" width="200px"/></p>
         <!-- <q-btn size="lg" color="dark" class="text-capitalize" to="/"
           >Baca Selengkapnya</q-btn
         > -->
