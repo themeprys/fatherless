@@ -34,7 +34,13 @@
 
 .hero {
   padding: 80px 0;
-  background-color: #f9f8f3;
+  // background-color: #f9f8f3;
+  background: url(/public/image/hero.webp) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #f9f8f3;
 }
 .hero .cta {
   max-width: 600px;
@@ -49,6 +55,11 @@
   font-size: 20px;
   line-height: 30px;
   padding-bottom: 30px;
+}
+
+.fth_herocta {
+  border: 1px solid #f9f8f3;
+  border-radius: 10px;
 }
 
 .dlj_imggrey img {

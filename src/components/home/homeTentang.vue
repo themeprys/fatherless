@@ -33,10 +33,14 @@
         > -->
       </div>
       <div class="col">
-        <q-img
-          src="https://placehold.co/300x400/000000/FFF?text=Dummy"
+        <div class="q-mb-xl"><q-img
+          src="/public/image/sinopsis1.webp"
           :ratio="16 / 9"
-        />
+        /></div>
+        <div><q-img
+          src="/public/image/sinopsis2.webp"
+          :ratio="16 / 9"
+        /></div>
       </div>
     </div>
   </div>
