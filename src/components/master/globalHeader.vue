@@ -42,12 +42,12 @@
                 label="Pernyataan Sutradara"
                 href="#sutradara"
               />
-              <q-route-tab
+              <!-- <q-route-tab
                 exact
                 class="text-capitalize"
                 label="Profil"
                 to="/"
-              />
+              /> -->
               <!-- <q-route-tab exact class="text-capitalize" label="About" to="/" /> -->
             </q-tabs>
           </div>

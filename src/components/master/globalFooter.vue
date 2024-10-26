@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    <div class="row nav container">
+    <!-- <div class="row nav container">
       <div class="col">
         <h1 class="text-uppercase text-h5 text-weight-bold">Fatherless</h1>
         <div class="socialmedia">
@@ -52,7 +52,7 @@
           <li><router-link to="/disclaimer">Disclaimer</router-link></li>
         </ul>
       </div>
-    </div>
+    </div> -->
     <div class="row text-center copyright">
       <div class="col">Hak Cipta Dilindungi Undang-Undang</div>
     </div>
