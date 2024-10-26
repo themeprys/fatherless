@@ -1,22 +1,22 @@
 <template>
-  <div class="homereinforcement">
+  <div class="homereinforcement" id="sutradara">
     <div class="container q-pt-lg">
-    <div class="cta text-center">
+    <div class="cta text-center q-pt-lg">
       <h1 class="text-weight-bold text-h1">Pernyataan Sutradara </h1>
     </div>
     <div class="row">
-      <div class="col">
+      <div class="col q-px-lg">
         <p>“Demi kamu, demi kalian, demi anak-anak, demi istri, demi keluarga”</p>
         <p>Dalam konteks yang serius, kata-kata ini jarang terucapkan oleh seorang ayah. Namun seringkali seorang anak merabanya melewati indikasi-indikasi dari setiap keputusan-keputusan yang mereka buat. Dalam semua keputusan yang diambil, kita selalui dihantui oleh pertanyaan “kenapa dia mengambil pilihan itu?”. Saya tidak pernah menemukan jawaban kongkritnya.</p>
           <p>Dalam proses pembuatan film ini, saya berusaha untuk menyelami ketidakharmonisan komunikasi antara dua generasi dalam satu keluarga yang sering kali terjadi.</p>
           <p>Saya ingin menunjukkan bahwa di balik setiap kata hal tidak diucapkan dan setiap kesalahpahaman, terdapat kerinduan mendalam untuk saling memahami dan dan keinginan untuk terhubung kembali.</p>
-          <p><q-img src="/public/image/statement.jpg" width="200px"/></p>
+          <p><q-img src="/image/statement.jpg" width="200px"/></p>
         <!-- <q-btn size="lg" color="dark" class="text-capitalize" to="/"
           >Baca Selengkapnya</q-btn
         >
  -->
       </div>
-      <div class="col">
+      <div class="col q-px-lg">
         <p>“Fatherless” adalah upaya saya untuk mewakili begitu banyak
         kawan dan kerabat yang mengalami masalah dengan Ayah dari
         sudut pandang anak laki - laki. Sebagai sutradara saya ingin
@@ -37,7 +37,7 @@
         menjadi lebih terbuka kepada keluarga kita.
       </p>
 
-          <p><q-img src="/public/image/mozes.webp" width="200px"/></p>
+          <p><q-img src="/image/mozes.webp" width="200px"/></p>
         <!-- <q-btn size="lg" color="dark" class="text-capitalize" to="/"
           >Baca Selengkapnya</q-btn
         > -->

@@ -28,19 +28,19 @@
                 exact
                 class="text-capitalize"
                 label="Sinopsis"
-                to="/"
+                href="#sinopsis"
               />
               <q-route-tab
                 exact
                 class="text-capitalize"
-                label="Cast"
-                to="/"
+                label="Karakter"
+                href="#karakter"
               />
               <q-route-tab
                 exact
                 class="text-capitalize"
                 label="Pernyataan Sutradara"
-                to="/"
+                href="#sutradara"
               />
               <q-route-tab
                 exact

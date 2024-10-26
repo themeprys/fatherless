@@ -1,7 +1,10 @@
 // app global css in SCSS form
 
+@import url('https://fonts.googleapis.com/css2?family=Puritan:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 * {
-  font-family: "Lato", sans-serif;
+  font-family: "Puritan", sans-serif;
+
 }
 .content p {
   font-size: 18px;
@@ -75,10 +78,6 @@
   filter:none;
 }
 
-.homefitur {
-  max-width: 900px;
-  margin: 0 auto 0;
-}
 
 .homefitur p {
   font-size: 18px;
@@ -98,6 +97,10 @@
   margin: 0 auto 0;
   padding: 100px 0 30px;
 
+}
+
+.hometentang p {
+  text-align: justify;
 }
 
 .homereinforcement {

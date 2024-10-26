@@ -1,5 +1,5 @@
 <template>
-  <div class="hometentang">
+  <div class="hometentang" id="sinopsis">
     <div class="row container">
       <div class="col q-pr-xl">
         <h1 class="text-h4 text-weight-bold">Sinopsis</h1>
